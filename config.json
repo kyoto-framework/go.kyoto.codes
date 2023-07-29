@@ -1,0 +1,16 @@
+{
+    "host": "go.kyoto.codes",
+    "cache_max_age": 3600,
+
+    "paths": {
+        "v3": {
+            "repo": "https://github.com/kyoto-framework/kyoto"
+        },
+        "zen/v2": {
+            "repo": "https://github.com/kyoto-framework/zen"
+        },
+        "zen/v3": {
+            "repo": "https://github.com/kyoto-framework/zen"
+        }
+    }
+}
